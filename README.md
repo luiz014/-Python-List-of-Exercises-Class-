@@ -1,6 +1,6 @@
 # [Python] List of Exercises Class:
 
-<b>Exercises from Python Brasil:</b>
+<b>Exercises from Python Brasil</b>
 
 Link: https://wiki.python.org.br/ExerciciosClasses
 
