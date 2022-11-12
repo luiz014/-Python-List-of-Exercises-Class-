@@ -1,4 +1,4 @@
-# OOP-exercises-python-brasil
+# [Python List of Exercises Class:
 
 <b>Exercises  from Python Brasil:</b>
 
