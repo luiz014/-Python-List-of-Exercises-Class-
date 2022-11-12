@@ -1,5 +1,6 @@
 # OOP-exercises-python-brasil
-OOP - Exercises  from Python Brasil
+
+<b>Exercises  from Python Brasil:</b>
 
 Link: https://wiki.python.org.br/ExerciciosClasses
 
