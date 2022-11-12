@@ -76,10 +76,10 @@ meuFusca.obterGasolina()        # Imprime o combustível que resta no tanque.
 
 <b>13. Classe Funcionário:</b>  Implemente a classe Funcionário. Um empregado tem um nome (um string) e um salário(um double). Escreva um construtor com dois parâmetros (nome e salário) e métodos para devolver nome e salário. Escreva um pequeno programa que teste sua classe.
 
-14. Aprimore a classe do exercício anterior para adicionar o método aumentarSalario (porcentualDeAumento) que aumente o salário do funcionário em uma certa porcentagem.
-  Exemplo de uso:
-    harry=funcionário("Harry",25000)
-    harry.aumentarSalario(10)
+<b>14.</b> Aprimore a classe do exercício anterior para adicionar o método aumentarSalario (porcentualDeAumento) que aumente o salário do funcionário em uma certa porcentagem.
+Exemplo de uso:
+harry=funcionário("Harry",25000)
+harry.aumentarSalario(10)
 
   <b>15. Classe Bichinho Virtual++:</b> Melhore o programa do bichinho virtual, permitindo que o usuário especifique quanto de comida ele fornece ao bichinho e por quanto tempo ele brinca com o bichinho. Faça com que estes valores afetem quão rapidamente os níveis de fome e tédio caem.
 
